@@ -1,2 +1,2 @@
-ポートフォリオサイトを作成しております！
+ポートフォリオサイト！
  https://booooj.github.io/engineer-portfolio/
